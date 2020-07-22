@@ -1,3 +1,4 @@
+// here we are getting an api url and doing stuff with it
 document.addEventListener('DOMContentLoaded', function() {
     const requestURL = 'https://randomuser.me/api/?results=5';
     let unorderedList = document.getElementById('people');
